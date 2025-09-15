@@ -1,4 +1,4 @@
-![banner.png](https://raw.githubusercontent.com/AK-DEV97/AK-DEV97/main/banner.png)
+![banner.png]([https://raw.githubusercontent.com/AK-DEV97/AK-DEV97/main/banner.png](https://github.com/abhaysen07/AK-DEV97/blob/1ac2fd5a508e3e72c2d8450c01d98c069780e84e/Banner.png.png))
 
 # Hey 👋 I’m Abhishek Kumar (aka AK_DEV97)
 
